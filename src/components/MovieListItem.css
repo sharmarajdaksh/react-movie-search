@@ -1,0 +1,25 @@
+.MovieListItem {
+    box-shadow: #ddd 0.5rem 0.5rem 0.5rem;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
+.MovieListItem-details-poster img {
+    display: block;
+    width: 100%;
+}
+
+.MovieListItem-details-aside {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.MovieListItem-details-aside-title {
+    margin-bottom: 0;
+}
+
+.MovieListItem-details-aside-year {
+    font-size: 1rem;
+}
